@@ -10,7 +10,7 @@ Single-page application for Home Credit Indonesia to provide payment for digital
   * Send invoice to user's e-mail for successful transactions
 
 ## Demo
-* [Isipulsaku](pulsa.iak-id.app)
+* [Isipulsaku](https://isipulsa.iak-id.app/)
 
 <br>
 <p align="center">
