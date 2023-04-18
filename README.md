@@ -14,12 +14,12 @@ Single-page application for Home Credit Indonesia to provide payment for digital
 
 <br>
 <p align="center">
-  <img src="docs/1.gif">
+  <img src="docs/1.gif" width="75%">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="docs/2.gif">
+  <img src="docs/2.gif" width="75%">
 </p>
 <br>
